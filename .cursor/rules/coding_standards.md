@@ -143,10 +143,10 @@ if err != nil {
 
 **Examples (all under 72 characters):**
 
-- `feat: Fixes JIRA-2567 add auth guard clauses`
-- `fix: Fixes JIRA-123 correct validation edge case`
-- `docs: Fixes JIRA-7891 update API examples`
-- `refactor: Fixes JIRA-4567 extract common validation`
+- `feat(JIRA-2567): add auth guard clauses`
+- `fix(JIRA-123): correct validation edge case`
+- `docs(JIRA-7891): update API examples`
+- `refactor(JIRA-4567): extract common validation`
 
 ## Project Standards
 
